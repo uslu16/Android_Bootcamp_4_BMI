@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Android_Bootcamp_4_BMI</string>
+
+    <string name="dice_1">Number 1</string>
+    <string name="dice_2">Number 2</string>
+    <string name="dice_roll">Check Your BMI</string>
+
+
+
+</resources>
